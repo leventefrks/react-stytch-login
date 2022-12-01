@@ -4,11 +4,11 @@ export const Login = () => {
       <input placeholder="Email..." />
       <input placeholder="Password..." />
 
-      <button> Login</button>
+      <button>Login</button>
 
       <div>
-        <p> Forgot your password? </p>
-        <button> Reset Password</button>
+        <p>Forgot your password? </p>
+        <button>Reset Password</button>
       </div>
     </>
   );
